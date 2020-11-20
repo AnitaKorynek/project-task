@@ -14,3 +14,10 @@ h1 {
 i {
     font-size: 36px;
 }
+
+/*Footer*/
+
+.footer i {
+    font-size: 24px;
+    color: goldenrod;
+}
